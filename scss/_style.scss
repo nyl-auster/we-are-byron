@@ -1,0 +1,105 @@
+@font-face {
+  font-family: cowboys;
+  src: url("../fonts/bleeding_cowboys.ttf");
+}
+
+.facebook-wrapper {
+  padding-bottom: rem-calc(40);
+}
+
+#byron {
+
+  padding-top: rem-calc(80);
+  padding-left: rem-calc(40);
+  color: black;
+  font-family: cowboys;
+  font-size: rem-calc(100);
+
+  @media #{$medium-only} {
+    font-size: rem-calc(100);
+  }
+
+  @media #{$small-only} {
+    font-size: rem-calc(50);
+  }
+
+}
+
+
+.fb-like {
+  padding-top: 20px;
+}
+
+.speech {
+  color: #333;
+  padding-bottom: rem-calc(30);
+
+  @media #{$small-only} {
+
+    padding-top: 50px;
+    text-align: center;
+
+  }
+}
+
+.footer {
+
+  p {
+
+    @media #{$small-only} {
+
+      padding-top: 50px;
+
+    }
+
+  }
+}
+
+.content {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.stabilo {
+  /*background-color: orange;*/
+  padding-left:5px;
+  padding-right: 5px;
+}
+
+#tom-waits {
+ /* background-color: cornflowerblue;*/
+}
+
+#beastie {
+  background-color: none;
+}
+
+@media #{$small-up} { }
+@media #{$small-only} { }
+@media #{$medium-up} { }
+
+
+@media #{$large-up} { }
+@media #{$large-only} { }
+
+@media #{$xlarge-up} { }
+@media #{$xlarge-only} { }
+
+h1 {
+
+}
+
+.footer {
+  padding-bottom: rem-calc(100);
+}
+
+/*
+.mini-header {
+  margin-bottom: rem-calc(20);
+  color:white;
+  background: black;
+  opacity: 0.8;
+  padding: rem-calc(20);
+  margin-top: rem-calc(100);
+}*/
+
