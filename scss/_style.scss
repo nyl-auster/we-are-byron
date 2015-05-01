@@ -3,8 +3,27 @@
   src: url("../fonts/bleeding_cowboys.ttf");
 }
 
+body {
+
+}
+
+/*
+body::after {
+  background: url('../images/bandeau.jpeg');
+  background-size: cover;
+  content:"";
+  opacity: 1;
+  top: 0;
+  left: 0;
+  bottom: 300px;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+*/
+
 .facebook-wrapper {
-  padding-bottom: rem-calc(40);
+  padding-bottom: rem-calc(30);
 }
 
 #byron {
@@ -20,23 +39,21 @@
   }
 
   @media #{$small-only} {
-    font-size: rem-calc(90);
+    font-size: rem-calc(65);
   }
 
 }
 
-
-.fb-like {
-  padding-top: 20px;
-}
-
 .speech {
+
+  font-style: italic;
   color: #333;
-  padding-bottom: rem-calc(30);
+  opacity: 0.8;
+  padding: 15px;
 
   @media #{$small-only} {
 
-    padding-top: 50px;
+    padding-top: 20px;
     text-align: center;
 
   }
@@ -57,36 +74,13 @@
 
 .content {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
 }
 
-.stabilo {
-  /*background-color: orange;*/
-  padding-left:5px;
-  padding-right: 5px;
-}
+
 
 #tom-waits {
  /* background-color: cornflowerblue;*/
-}
-
-#beastie {
-  background-color: none;
-}
-
-@media #{$small-up} { }
-@media #{$small-only} { }
-@media #{$medium-up} { }
-
-
-@media #{$large-up} { }
-@media #{$large-only} { }
-
-@media #{$xlarge-up} { }
-@media #{$xlarge-only} { }
-
-h1 {
-
 }
 
 .footer {
