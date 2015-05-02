@@ -52,29 +52,36 @@
     <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-5">
       <li>
         <span class="th">
-      <img width="200px" src="images/membres/yann.jpg">
+      <img width="150px" src="images/membres/lewis.jpg">
+    </span>
+      </li>
+
+      <li>
+                <span class="th">
+      <img width="150px" src="images/membres/yann.jpg">
+    </span>
+
+      </li>
+
+      <li>
+        <span class="th">
+      <img width="150px" src="images/membres/erwan.jpg">
     </span>
       </li>
       <li>
         <span class="th">
-      <img width="200px" src="images/membres/antoine.jpg">
+      <img width="150px" src="images/membres/antoine.jpg">
     </span>
       </li>
+
       <li>
         <span class="th">
-      <img width="200px" src="images/membres/lewis.jpg">
+      <img width="150px" src="images/membres/percy.jpg">
     </span>
       </li>
-      <li>
-        <span class="th">
-      <img width="200px" src="images/membres/percy.jpg">
-    </span>
-      </li>
-      <li>
-        <span class="th">
-      <img width="200px" src="images/membres/erwan.jpg">
-    </span>
-      </li>
+
+
+
 
     </ul>
 
