@@ -3,19 +3,41 @@
   src: url("../fonts/bleeding_cowboys.ttf");
 }
 
+.fi-icon-large {
+  font-size: rem-calc(20);
+}
+
+a .fi-icon-large {
+  position: relative;
+  top:1px;
+  left:-5px
+}
+
 body {
+  color:#222;
+  /*background: url("../images/bandeau.jpeg") no-repeat;*/
+  background-size:cover;
   font-family: 'trebuchet ms', verdana, arial;
 }
+
+.page-opacifier {
+  /*background-color: #000000;*/
+  opacity: 0.5;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+
 
 .facebook-wrapper {
   padding-bottom: rem-calc(30);
 }
 
 #byron {
-
+  color: #222;
   padding-top: rem-calc(80);
   padding-left: rem-calc(40);
-  color: black;
   font-size: rem-calc(100);
 
   @media #{$medium-only} {
@@ -30,7 +52,6 @@ body {
 
 .speech {
 
-  color: #222;
   padding: 15px;
 
   @media #{$small-only} {
@@ -57,6 +78,7 @@ body {
 .content {
   padding-top: 50px;
   padding-bottom: 30px;
+
 }
 
 .stabilo {

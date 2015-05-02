@@ -8,12 +8,19 @@
             et The Beastie Boys. Avec un hip-hop cinématographique qui emprunte au blues, au gospel, au folk et au punk, et des textes en anglais incisifs, ils vous entraînent dans les méandres du désespoir amoureux sur un air enjoué de cabaret glauque." />
   <meta name="keywords" content="musique, groupe, byron, band, music">
   <link rel="stylesheet" href="css/app.css" />
+  <link rel="stylesheet" href="fonts/foundation-icons/foundation-icons.css" />
   <script src="bower_components/modernizr/modernizr.js"></script>
 </head>
 
 <body>
 
+<div class="page-opacifier">
+</div>
+
 <div id="fb-root"></div>
+
+
+
 
 <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
@@ -26,7 +33,7 @@
 <div class="row">
   <div class="small-12 columns">
     <h1 class="text-center" id="byron">BYRON  </h1>
-    <h3 class="text-center"><small> Site temporaire développé conformément à la méthode <a target="_blank" href="http://byatoo.com/la-rache/index.php?p=page&name=la-faq&id=3">la rache</a> </small></h3>
+    <div class="text-center"> Site temporaire développé conformément à la méthode <a target="_blank" href="http://byatoo.com/la-rache/index.php?p=page&name=la-faq&id=3">la rache</a> </div>
   </div>
 </div>
 
@@ -47,7 +54,10 @@
 
 <div class="row">
   <div class="small-12 columns text-center facebook-wrapper">
-    <p class=""><a target="_blank" href="http://facebook.com/byron.band" class="small secondary button radius"> Voir la page facebook de Byron</a></p>
+    <p class="">
+      <a target="_blank" href="http://facebook.com/byron.band" class="primary button radius"><i class="fi-social-facebook fi-icon-large"></i> Page facebook </a>
+      <span id="contact-link"></span>
+    </p>
     <div class="fb-like" data-href="https://facebook.com/byron.band" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
   </div>
 </div>
@@ -66,5 +76,33 @@
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
 <script src="bower_components/foundation/js/foundation.min.js"></script>
 <script src="js/app.js"></script>
+
+<script type="text/javascript" language="javascript">
+
+  // Email obfuscator script 2.1 by Tim Williams, University of Arizona
+  // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+  // This code is freeware provided these four comment lines remain intact
+  // A wizard to generate this code is at http://www.jottings.com/obfuscator/
+
+  { coded = "BsF73B7@v8-328-Pt2sF.Bsh"
+    key = "uXa5WF7D2PwORCkZNTAsyl8hgY3LVUIcMqv9J6EKi04ntGrbzfpxHjSBdo1Qem"
+    shift=coded.length
+    link=""
+    for (i=0; i<coded.length; i++) {
+      if (key.indexOf(coded.charAt(i))==-1) {
+        ltr = coded.charAt(i)
+        link += (ltr)
+      }
+      else {
+        ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+        link += (key.charAt(ltr))
+      }
+    }
+    document.getElementById("contact-link").innerHTML = "<a class=\"button radius success\" href='mailto:"+link+"'><i class=\"fi-mail fi-icon-large\"></i> Nous contacter</a>";
+  }
+
+</script>
+
+
 </body>
 </html>
