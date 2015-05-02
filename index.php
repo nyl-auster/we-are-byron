@@ -86,8 +86,8 @@
 <div class="row">
   <div class="small-12 columns text-center facebook-wrapper">
     <p class="">
-      <a target="_blank" href="http://facebook.com/byron.band" class="primary button radius"><i class="fi-social-facebook fi-icon-large"></i> Page facebook </a>
       <span id="contact-link"></span>
+      <a target="_blank" href="http://facebook.com/byron.band" class="primary button radius"><i class="fi-social-facebook fi-icon-large"></i> Page facebook </a>
     </p>
     <div class="fb-like" data-href="https://facebook.com/byron.band" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
   </div>
