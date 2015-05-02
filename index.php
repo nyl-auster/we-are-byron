@@ -43,9 +43,8 @@
     <p class="speech">
       <strong>Byron</strong> est l'enfant terrible de Captain Beefheart et The Streets, le batard révolté de Tom Waits
       et The Beastie Boys. Avec un hip-hop cinématographique qui emprunte au blues, au gospel, au folk et au punk, et des textes en anglais incisifs, ils vous entraînent dans les méandres du désespoir amoureux sur un air enjoué de cabaret glauque.
-    </p>
+<br /><br />
 
-    <p class="speech">
       Byron c'est : <span class="stabilo">Percy Louis</span>  à la basse,<span class="stabilo"> Erwan Guirriec</span> à la batterie, <span class="stabilo">Antoine Houbron</span> aux claviers, <span class="stabilo">Lewis Cuthbert-Ashton</span> au chant, <span class="stabilo">Yann Boisselier</span> à la guitare et au chant.
     </p>
 
@@ -79,20 +78,7 @@
       <img width="150px" src="images/membres/percy.jpg">
     </span>
       </li>
-
-
-
-
     </ul>
-
-
-
-
-
-
-
-
-
 
   </div>
 </div>
