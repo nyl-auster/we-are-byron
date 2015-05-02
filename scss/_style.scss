@@ -37,7 +37,6 @@ body {
 #byron {
   color: #222;
   padding-top: rem-calc(80);
-  padding-left: rem-calc(40);
   font-size: rem-calc(100);
 
   @media #{$medium-only} {
