@@ -49,7 +49,7 @@
       Byron c'est : <span class="stabilo">Percy Louis</span>  à la basse,<span class="stabilo"> Erwan Guirriec</span> à la batterie, <span class="stabilo">Antoine Houbron</span> aux claviers, <span class="stabilo">Lewis Cuthbert-Ashton</span> au chant, <span class="stabilo">Yann Boisselier</span> à la guitare et au chant.
     </p>
 
-    <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-5">
+    <ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5">
       <li>
         <span class="th">
       <img width="150px" src="images/membres/lewis.jpg">
