@@ -32,7 +32,7 @@
 
 <div class="row">
   <div class="small-12 columns">
-    <h1 class="text-center" id="byron">BYRON <small>inc</small> </h1>
+    <h1 class="text-center" id="byron">BYRON <small class="hidden-for-small">inc</small> </h1>
     <!--<div class="text-center"><i class="fi-alert"></i> Site temporaire développé conformément à la méthode <a target="_blank" href="http://byatoo.com/la-rache/index.php?p=page&name=la-faq&id=3">la rache</a> </div> -->
   </div>
 </div>
