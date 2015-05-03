@@ -45,7 +45,12 @@
       et The Beastie Boys. Avec un hip-hop cinématographique qui emprunte au blues, au gospel, au folk et au punk, et des textes en anglais incisifs, ils vous entraînent dans les méandres du désespoir amoureux sur un air enjoué de cabaret glauque.
 <br /><br />
 
-      Byron c'est : <span class="stabilo">Percy Louis</span>  à la basse,<span class="stabilo"> Erwan Guirriec</span> à la batterie, <span class="stabilo">Antoine Houbron</span> aux claviers, <span class="stabilo">Lewis Cuthbert-Ashton</span> au chant, <span class="stabilo">Yann Boisselier</span> à la guitare et au chant.
+      Byron en live c'est : <span class="stabilo">Percy Louis</span>  à la basse,<span class="stabilo"> Erwan Guirriec</span> à la batterie, <span class="stabilo">Antoine Houbron</span> aux claviers, <span class="stabilo">Lewis Cuthbert-Ashton</span> au chant, <span class="stabilo">Yann Boisselier</span> à la guitare et au chant.
+
+      <br /><br /> Production : beats et mixage (en cours) : Remy laurençon
+
+      <br /> <br />
+      Vidéos : Agnès gatelet à la réalisation, Alban Jadas au montage.
     </p>
 
     <ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5">
