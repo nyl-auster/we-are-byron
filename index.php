@@ -47,10 +47,10 @@
 
       Byron en live c'est : <span class="stabilo">Percy Louis</span>  à la basse,<span class="stabilo"> Erwan Guirriec</span> à la batterie, <span class="stabilo">Antoine Houbron</span> aux claviers, <span class="stabilo">Lewis Cuthbert-Ashton</span> au chant, <span class="stabilo">Yann Boisselier</span> à la guitare et au chant.
 
-      <br /><br /> Production : beats et mixage (en cours) : Remy laurençon
+      <br /><br /> Production : beats et mixage (en cours) : <span class="stabilo">Remy Laurençon</span>
 
       <br /> <br />
-      Vidéos : Agnès gatelet à la réalisation, Alban Jadas au montage.
+      Vidéos : <span class="stabilo">Agnès gatelet</span> à la réalisation, <span class="stabilo">Alban Jadas au montage.</span>
     </p>
 
     <ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5">
