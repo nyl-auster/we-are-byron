@@ -45,12 +45,16 @@
       et The Beastie Boys. Avec un hip-hop cinématographique qui emprunte au blues, au gospel, au folk et au punk, et des textes en anglais incisifs, ils vous entraînent dans les méandres du désespoir amoureux sur un air enjoué de cabaret glauque.
 <br /><br />
 
-      Byron en live c'est : <span class="stabilo">Percy Louis</span>  à la basse,<span class="stabilo"> Erwan Guirriec</span> à la batterie, <span class="stabilo">Antoine Houbron</span> aux claviers, <span class="stabilo">Lewis Cuthbert-Ashton</span> au chant, <span class="stabilo">Yann Boisselier</span> à la guitare et au chant.
+      <strong>Byron le groupe en live </strong> c'est : <span class="stabilo">Percy Louis</span>  à la basse,<span class="stabilo"> Erwan Guirriec</span> à la batterie, <span class="stabilo">Antoine Houbron</span> aux claviers, <span class="stabilo">Lewis Cuthbert-Ashton</span> au chant, <span class="stabilo">Yann Boisselier</span> à la guitare et au chant.
 
-      <br /><br /> Production : beats et mixage (en cours) : <span class="stabilo">Remy Laurençon</span>
+      <br /><br />
+      <strong>Production </strong> : beats et mixage (en cours) : <span class="stabilo">Remy Laurençon</span>
 
       <br /> <br />
-      Vidéos : <span class="stabilo">Agnès gatelet</span> à la réalisation, <span class="stabilo">Alban Jadas au montage.</span>
+      <strong>Vidéos</strong> : <span class="stabilo"> Sylvain Lapart </span>, <span class="stabilo">Agnès gatelet</span> à la réalisation, <span class="stabilo">Alban Jadas</span> au montage.
+
+      <br /><br />
+      <strong>Photos </strong>  : <span class="stabilo">Mathilde Galis</span>
     </p>
 
     <ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5">
