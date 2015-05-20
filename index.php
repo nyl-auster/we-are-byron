@@ -19,9 +19,6 @@
 
 <div id="fb-root"></div>
 
-
-
-
 <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
@@ -40,22 +37,13 @@
 <div class="row content">
   <div class="small-12 medium-12 columns">
 
-    <p class="speech">
+    <p class="text-center">
       <strong>Byron</strong> est l'enfant terrible de Captain Beefheart et The Streets, le batard révolté de Tom Waits
       et The Beastie Boys. Avec un hip-hop cinématographique qui emprunte au blues, au gospel, au folk et au punk, et des textes en anglais incisifs, ils vous entraînent dans les méandres du désespoir amoureux sur un air enjoué de cabaret glauque.
-<br /><br />
-
-      <strong>Byron le groupe en live </strong> c'est : <span class="stabilo">Percy Louis</span>  à la basse,<span class="stabilo"> Erwan Guirriec</span> à la batterie, <span class="stabilo">Antoine Houbron</span> aux claviers, <span class="stabilo">Lewis Cuthbert-Ashton</span> au chant, <span class="stabilo">Yann Boisselier</span> à la guitare et au chant.
-
-      <br /><br />
-      <strong>Production </strong> : beats et mixage (en cours) : <span class="stabilo">Remy Laurençon</span>
-
-      <br /> <br />
-      <strong>Vidéos</strong> : <span class="stabilo"> Sylvain Lapart </span>, <span class="stabilo">Agnès gatelet</span> à la réalisation, <span class="stabilo">Alban Jadas</span> au montage.
-
-      <br /><br />
-      <strong>Photos </strong>  : <span class="stabilo">Mathilde Galis</span>
+    <br /></br/>
     </p>
+
+    <p>
 
     <ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5">
       <li>
@@ -88,6 +76,22 @@
     </span>
       </li>
     </ul>
+
+
+    <p class="text-center">
+      <br />
+    <strong>Byron le groupe en live </strong> c'est : <span class="stabilo">Percy Louis</span>  à la basse,<span class="stabilo"> Erwan Guirriec</span> à la batterie, <span class="stabilo">Antoine Houbron</span> aux claviers, <span class="stabilo">Lewis Cuthbert-Ashton</span> au chant, <span class="stabilo">Yann Boisselier</span> à la guitare et au chant.
+
+    <br /><br />
+    <strong>Production </strong> : beats et mixage (en cours) : <span class="stabilo">Remy Laurençon</span>
+
+    <br /> <br />
+    <strong>Vidéos</strong> : <span class="stabilo"> Sylvain Lapart </span>, <span class="stabilo">Agnès gatelet</span> à la réalisation, <span class="stabilo">Alban Jadas</span> au montage.
+
+    <br /><br />
+    <strong>Photos </strong>  : <span class="stabilo">Mathilde Galis</span>
+    </p>
+
 
   </div>
 </div>
