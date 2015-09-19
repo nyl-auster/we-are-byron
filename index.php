@@ -1,3 +1,10 @@
+<?php
+// redirect we-are-byron.com to byron-inc.fr permanently
+if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
+ header("Status: 301 Moved Permanently", false, 301);
+ header("Location: http://www.byron-inc.fr");
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
