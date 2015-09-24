@@ -1,5 +1,6 @@
 <?php
 // redirect we-are-byron.com to byron-inc.fr permanently
+// DO NOT REMOVE ! we-are-byron.com pointe toujours vers ce fichier
 if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
  header("Status: 301 Moved Permanently", false, 301);
  header("Location: http://www.byron-inc.fr");
@@ -32,6 +33,7 @@ if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/creative.css" type="text/css">
+    <link rel="stylesheet" href="css/byron.css" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -111,11 +113,17 @@ if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
                 <h2 class="section-heading">A propos de Byron inc</h2>
                 <hr class="light">
 
+<p class="center">
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LSwuxs489G0" frameborder="0" allowfullscreen></iframe>
+</div>
+</p>
+
                 <p class="text-faded">
                 <strong>Byron inc</strong> est l'enfant terrible de Captain Beefheart et The Streets, le batard révolté de Tom Waits et The Beastie Boys. Avec un hip-hop cinématographique qui emprunte au blues, au gospel, au folk et au punk, et des textes en anglais incisifs, ils vous entraînent dans les méandres du désespoir amoureux sur un air enjoué de cabaret glauque.
                 </p>
 
-                <p class="text-faded"><strong>Byron inc</strong>en live c'est : Percy Louis à la basse, Erwan Guirriec à la batterie, Antoine Houbron aux claviers, Lewis Cuthbert-Ashton au chant, Yann Boisselier à la guitare et au chant.
+                <p class="text-faded"><strong>Byron inc </strong>en live c'est : Percy Louis à la basse, Erwan Guirriec à la batterie, Antoine Houbron aux claviers, Lewis Cuthbert-Ashton au chant, Yann Boisselier à la guitare et au chant.
                     <br />
                     Production : beats et mixage (en cours) : Remy Laurençon
                     <br />
