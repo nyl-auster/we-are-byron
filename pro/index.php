@@ -17,10 +17,10 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="page-scroll" href="pro#clips">Clips</a>
+                    <a class="page-scroll" href="#clips">Clips</a>
                 </li>
                                 <li>
-                    <a class="page-scroll" href="pro#premier-ep">Premier EP</a>
+                    <a class="page-scroll" href="#premier-ep">Premier EP</a>
                 </li>
             </ul>
         </div>

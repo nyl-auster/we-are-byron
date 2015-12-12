@@ -253,3 +253,6 @@
 </section>
 
 
+<?php include "footer.inc.php" ?>
+
+
