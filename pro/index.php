@@ -22,7 +22,7 @@
                 <li>
                     <a class="page-scroll" href="#premier-ep">Premier EP</a>
                 </li>
-                                <li>
+                <li>
                     <a class="page-scroll" href="#photos">Photos</a>
                 </li>
             </ul>
@@ -57,7 +57,7 @@
 
               <p class="center">
                 <div class="video-container">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/fwFjF3s3S3A" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/agpnSAsl-GQ" frameborder="0" allowfullscreen></iframe>
 
                 </div>
             </p>
@@ -68,9 +68,9 @@
           </p>
           <p class="center">
             <div class="video-container">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/Ep5HXfWsd7s" frameborder="0" allowfullscreen></iframe>
-          </div>
-          <p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/fwFjF3s3S3A" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <p>
 
                 <!--
                   <a href="#" class="btn btn-default btn-xl">Get Started!</a>
