@@ -14,7 +14,7 @@ if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
    <base href="/">
 
     <meta charset="utf-8">
-    
+
     <?php
     /** 
      * !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -22,8 +22,7 @@ if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
      * !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
      */
     ?>
-    <meta name="ro
-    bots" content="noindex">
+    <meta name="robots" content="noindex">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
