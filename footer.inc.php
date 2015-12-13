@@ -13,27 +13,29 @@
 <script src="js/creative.js"></script>
 
 <script type="text/javascript" language="javascript">
-    // Email obfuscator script 2.1 by Tim Williams, University of Arizona
-    // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
-    // This code is freeware provided these four comment lines remain intact
-    // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-    { coded = "BsF73B7@v8-328-Pt2sF.Bsh"
-        key = "uXa5WF7D2PwORCkZNTAsyl8hgY3LVUIcMqv9J6EKi04ntGrbzfpxHjSBdo1Qem"
-        shift=coded.length
-        link=""
-        for (i=0; i<coded.length; i++) {
-            if (key.indexOf(coded.charAt(i))==-1) {
-                ltr = coded.charAt(i)
-                link += (ltr)
-            }
-            else {
-                ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-                link += (key.charAt(ltr))
-            }
-        }
-        document.getElementById("contact-link").innerHTML = '<a style="color:white" href="mailto:' + link + '"><p><i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i></p>Envoyer un mail</a>';
+<!--
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+{ coded = "9Vii.jvrSSFOrF6@HUVrO.svU"
+  key = "rOwyGVNbJXmonCMeLRSfPgQkd6qt90c3jW4Uvil8FpaK2zH1Dh5BYTAsxZEu7I"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
     }
-</script>
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+ document.getElementById("contact-link").innerHTML = '<a style="color:white" href="mailto:' + link + '"><p><i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i></p>Envoyer un mail</a>';
+}
+//-->
+</script><noscript>Sorry, you need Javascript on to email me.</noscript>
 
 <script type="text/javascript" language="javascript">
     <!--
