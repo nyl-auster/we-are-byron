@@ -21,10 +21,7 @@
                 </li>
                 <li>
                     <a class="page-scroll" href="#premier-ep">Premier EP</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#photos">Photos</a>
-                </li>
+                </li>   
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -32,6 +29,20 @@
     <!-- /.container-fluid -->
 </nav>
 
+<header id="pro">
+    <div class="header-content">
+        <div class="header-content-inner">
+            <h2>BYRON INC</h2>
+            <hr>
+            <p class=""> ESPACE PRO </p>
+            <!--
+            <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+            -->
+        </div>
+    </div>
+</header>
+
+<!--
 <section class="bg-primary">
     <div class="container">
         <div class="row">
@@ -41,36 +52,43 @@
         </div>
     </div>
 </section>
+-->
 
 
 
-<section class="bg-dark" id="clips">
+<section class="bg-primary" id="clips">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="section-heading"> NOS CLIPS </h2>
                 <hr class="light">
 
+<!--
                 <p class="text-faded">
                   Stalker - en  cours de finalisation. Visuellement entre Pulp Fiction et la Dolce Vita; musicalement entre Tango, blues et hip-hop écorché. 
               </p>
+          -->
+          <br />
+          <h3>STALKER - en cours de finalisation</h3>
+          <p class="center">
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/agpnSAsl-GQ" frameborder="0" allowfullscreen></iframe>
 
-              <p class="center">
-                <div class="video-container">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/agpnSAsl-GQ" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </p>
 
-                </div>
-            </p>
-
-
+<!--
             <p class="text-faded">
               JUDAS - En cours de finalisation. Quand Elvis rencontre Jim Morisson dans le garage de Iggy Pop.
           </p>
-          <p class="center">
-            <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/fwFjF3s3S3A" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <p>
+      -->
+      <br />
+      <h3> JUDAS - en cours de finalisation </h3>
+      <p class="center">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/fwFjF3s3S3A" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <p>
 
                 <!--
                   <a href="#" class="btn btn-default btn-xl">Get Started!</a>
@@ -84,7 +102,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading"> PREMIER EP </h2>
+                <h2 class="section-heading"> MUSIQUES - PREMIER EP </h2>
                 <hr class="primary">
             </div>
         </div>
@@ -93,33 +111,12 @@
         <div class="row">
             <div class="col-sm-12 text-center">
 
-                <!--  <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i>-->
-                <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/199643732&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-                <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/199646718&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
-            </div>
-
-        </div>
-    </div>
-</section>
-
-<section id="photos">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading"> PREMIER EP </h2>
-                <hr class="primary">
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center">
 
                 <!--  <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i>-->
                 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/199643732&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
                 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/199646718&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
+                <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237346626&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+                <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237346627&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
             </div>
 
         </div>
