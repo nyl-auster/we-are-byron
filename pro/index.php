@@ -124,7 +124,7 @@ if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
 
 
 
-<section style="background-color:black" id="clips">
+<section class="bg-dark" style="background-color:black" id="clips">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
