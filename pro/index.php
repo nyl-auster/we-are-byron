@@ -100,10 +100,10 @@ if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
 <header id="pro">
     <div class="header-content">
         <div class="header-content-inner">
-            <h2>BYRON INC</h2>
+            <h3>ESPACE PRO</h3>
+           <!--
             <hr>
             <p class=""> ESPACE PRO </p>
-            <!--
             <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             -->
         </div>
@@ -128,7 +128,7 @@ if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading"> NOS CLIPS </h2>
+                <h3 class="section-heading"> NOS CLIPS </h3>
                 <hr class="light">
 
 <!--
