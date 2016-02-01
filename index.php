@@ -87,6 +87,60 @@
     </div>
 </section>
 
+<section class="bg-dark" id="clips">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 text-center">
+        <h3 class="section-heading"> NOS CLIPS </h3>
+        <hr class="light">
+
+        <!--
+                        <p class="text-faded">
+                          Stalker - en  cours de finalisation. Visuellement entre Pulp Fiction et la Dolce Vita; musicalement entre Tango, blues et hip-hop écorché.
+                      </p>
+                  -->
+        <br />
+
+        <!--
+        <h3>STALKER </h3>
+        <p class="center">
+        <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/WBFDuxZUZFw" frameborder="0" allowfullscreen></iframe>
+        </div>
+        </p>
+        -->
+
+        <!--
+                    <p class="text-faded">
+                      JUDAS - En cours de finalisation. Quand Elvis rencontre Jim Morisson dans le garage de Iggy Pop.
+                  </p>
+              -->
+        <br />
+        <h3> JUDAS </h3>
+        <p class="center">
+        <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/GNObQFgNEXk" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <p>
+
+          <br />
+        <h3> MELANCHOLIA </h3>
+        <p class="center">
+        <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/6x-4x42qxQI" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <p>
+
+
+
+          <!--
+            <a href="#" class="btn btn-default btn-xl">Get Started!</a>
+        -->
+      </div>
+    </div>
+  </div>
+</section>
+
 <section id="services">
     <div class="container">
         <div class="row">
@@ -110,6 +164,8 @@
         </div>
     </div>
 </section>
+
+
 
 
 

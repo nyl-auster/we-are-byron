@@ -122,8 +122,6 @@ if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
 </section>
 -->
 
-
-
 <section class="bg-dark" style="background-color:black" id="clips">
     <div class="container">
         <div class="row">
