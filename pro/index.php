@@ -137,11 +137,10 @@ if (strpos($_SERVER['HTTP_HOST'], 'we-are-byron.com') !== FALSE) {
               </p>
           -->
           <br />
-          <h3>STALKER - en cours de finalisation</h3>
+          <h3>STALKER </h3>
           <p class="center">
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/agpnSAsl-GQ" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBFDuxZUZFw" frameborder="0" allowfullscreen></iframe>
             </div>
         </p>
 
